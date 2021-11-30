@@ -7,5 +7,5 @@
 - pip install flask
 - pip install flask-mysqldb
 
-# issues###
+# issues
 - sudo apt-get install libmysqlclient-dev
